@@ -1,1 +1,1 @@
-
+simulation for the stack
