@@ -1,2 +1,2 @@
-# coding_skills_project by shashwat
+# Student Record Management System
 
